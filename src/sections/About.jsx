@@ -22,7 +22,8 @@ const About = () => {
 
                         <div className="mt-12">
                             <p className="grid-headtext">Demian Onaindi</p>
-                            <p className="grid-subtext">Con más de 3 años en el campo de la programacion, estudiando y trabajando en proyectos logre obtener habilidades solidas para desarrollar sistemas completos desde 0</p>
+                            <p className="grid-subtext">Con más de 3 años en el campo de la programación, estudiando y trabajando en proyectos, logré obtener habilidades sólidas para desarrollar sistemas completos desde 0
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -45,7 +46,7 @@ const About = () => {
                             <p className="grid-headtext">Habilidades</p>
                             <p className="grid-subtext">
                                 Me especializo en el desarrollo de sistemas utilizando Angular y C#
-                                con un enfoque especial en automatizacion industrial y 3D
+                                con un enfoque especial en automatización industrial y 3D
                             </p>
                         </div>
                     </div>
@@ -72,7 +73,7 @@ const About = () => {
                         </div>
                         <div>
                             <p className="grid-headtext">Capacidad de trabajar en cualquier zona horaria</p>
-                            <p className="grid-subtext">Con base en argentina y opcion de trabajo remoto a nivel global</p>
+                            <p className="grid-subtext">Con base en argentina y opción de trabajo remoto a nivel global</p>
                         </div>
                     </div>
                 </div>
@@ -84,7 +85,7 @@ const About = () => {
                         <div>
                             <p className="grid-headtext">Mi pasion por programar</p>
                             <p className="grid-subtext">
-                                Disfruto enfrentarme a desafios que ponen a prueba mis habilidades y me impulsan a crecer. Cada proyecto es una oportunidad para superar limites, adquirir nuevos conocimientos y encontrar soluciones innovadoras que marquen la diferencia.
+                                Disfruto enfrentarme a desafíos que ponen a prueba mis habilidades y me impulsan a crecer. Cada proyecto es una oportunidad para superar límites, adquirir nuevos conocimientos y encontrar soluciones innovadoras que marquen la diferencia.
                             </p>
                         </div>
                     </div>

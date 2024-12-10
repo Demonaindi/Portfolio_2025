@@ -36,7 +36,7 @@ export const navLinks = [
       name: 'Janus Automation',
       pos: 'Junior Fullstack Developer',
       duration: 'Marzo 2024 - Presente',
-      title: "En esta empresa, consolidé mis conocimientos en el desarrollo de sistemas web de gran escala con Angular, optimizando la interacción con bases de datos SQL y OLAP. \n También participé activamente en proyectos de visualización avanzada, creando simulaciones 3D para el muestreo y análisis de datos, lo que permitió representar información compleja de manera intuitiva y dinámica. Actualmente, sigo trabajando en proyectos innovadores para diversos países, colaborando con equipos internacionales y buscando constantemente mejorar los sistemas y procesos desarrollados.",
+      title: "En esta empresa, consolidé mis conocimientos en el desarrollo de sistemas web de gran escala con Angular, optimizando la interacción con bases de datos SQL y OLAP. También participé activamente en proyectos de visualización avanzada, creando simulaciones 3D para el muestreo y análisis de datos, lo que permitió representar información compleja de manera intuitiva y dinámica. Actualmente, sigo trabajando en proyectos innovadores para diversos países, colaborando con equipos internacionales y buscando constantemente mejorar los sistemas y procesos desarrollados.",
       icon: '/assets/janus.png',
     }
     
