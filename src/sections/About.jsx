@@ -83,7 +83,7 @@ const About = () => {
                         <img src="assets/grid3.png" alt="grid-3" className="w-full sm:h-[266px] h-fit object-contain" />
 
                         <div>
-                            <p className="grid-headtext">Mi pasion por programar</p>
+                            <p className="grid-headtext">Mi pasión por programar</p>
                             <p className="grid-subtext">
                                 Disfruto enfrentarme a desafíos que ponen a prueba mis habilidades y me impulsan a crecer. Cada proyecto es una oportunidad para superar límites, adquirir nuevos conocimientos y encontrar soluciones innovadoras que marquen la diferencia.
                             </p>
