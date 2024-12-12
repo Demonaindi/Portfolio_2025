@@ -1,8 +1,14 @@
-# React + Vite
+🎉 ¡Lanzando mi Portafolio Personal! 🎉
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Estoy emocionado de compartir mi nuevo portafolio 🚀, creado con las siguientes tecnologías:
 
-Currently, two official plugins are available:
+✨ React: Para una experiencia web rápida y moderna.
+✨ Three.js y Blender: Para incorporar modelos 3D interactivos.
+✨ Tailwind CSS: Para un diseño limpio y estilizado.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🌟 ¿Qué puedes encontrar en mi portafolio?
+Una mezcla de diseño, interactividad y creatividad que muestra mis habilidades técnicas y mi pasión por la programacion 3D. 
+
+💻 ¡Visítalo aquí! https://demianonaindi2024.vercel.app/
+
+Estoy abierto a sugerencias, colaboraciones o simplemente escuchar qué te parece. ¡Déjame tu opinión en los comentarios! 👇
