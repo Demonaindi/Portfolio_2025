@@ -17,10 +17,10 @@ const About = () => {
         <section className="c-space xl:-mb-28 md:my-10 sm:my-12 my-8" id="About" >
             <div className="grid xl:grid-cols-3 xl:grid-rows-5 md:grid-cols-2 grid-cols-1 gap-5 h-full">
                 <div className="col-span-1 xl:row-span-2">
-                    <div className="grid-container justify-center">
-                        <img src="assets/AnimeFace.jpeg" alt="grid-1" className="h-44 w-42 place-self-center object-contain rounded-full" />
+                    <div className="grid-container ">
+                        <img src="assets/AnimeFace.jpeg" alt="grid-1" className="h-52 w-42 mt-10 place-self-center object-contain rounded-full" />
 
-                        <div className="mt-12">
+                        <div className="mt-10">
                             <p className="grid-headtext">Demian Onaindi</p>
                             <p className="grid-subtext">Con más de 3 años en el campo de la programación, estudiando y trabajando en proyectos, logré obtener habilidades sólidas para desarrollar sistemas completos desde 0
                             </p>
@@ -45,7 +45,7 @@ const About = () => {
                         <div className="mt-28">
                             <p className="grid-headtext">Habilidades</p>
                             <p className="grid-subtext">
-                                Me especializo en el desarrollo de sistemas utilizando Angular y C#
+                                Me especializo en el desarrollo de sistemas web utilizando diversos frameworks 
                                 con un enfoque especial en automatización industrial y 3D
                             </p>
                         </div>
