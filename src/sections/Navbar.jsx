@@ -17,7 +17,7 @@ const NavItems = () => {
 
 
 
-const Navbar = () => {
+const Navbar = () => { 
     const [isOpen, setIsOpen] = useState(false)
 
     const toggleMenu = () => {

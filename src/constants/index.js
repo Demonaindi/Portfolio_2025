@@ -38,14 +38,6 @@ export const navLinks = [
       duration: 'Marzo 2024 - Presente',
       title: "En esta empresa, consolidé mis conocimientos en el desarrollo de sistemas web de gran escala con Angular, optimizando la interacción con bases de datos SQL y OLAP. También participé activamente en proyectos de visualización avanzada, creando simulaciones 3D para el muestreo y análisis de datos, lo que permitió representar información compleja de manera intuitiva y dinámica.",
       icon: '/assets/janus.png',
-    },
-    {
-      id: 2,
-      name: 'Anthurium Group',
-      pos: 'Product Developer',
-      duration: 'Abril 2025 - Actualidad',
-      title: "Participo en la digitalización, automatización y desarrollo de software, creando proyectos a medida para clientes, incluyendo aplicaciones web, e-commerce y sitios institucionales.",
-      icon: "/assets/anthuriumLogo.jpg",
     }
     
   ];
