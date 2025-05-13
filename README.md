@@ -12,6 +12,6 @@ Estoy emocionado de compartir mi nuevo portafolio 🚀, creado con las siguiente
 🌟 ¿Qué puedes encontrar en mi portafolio?
 Una mezcla de diseño, interactividad y creatividad que muestra mis habilidades técnicas y mi pasión por la programacion 3D. 
 
-💻 ¡Visítalo aquí! https://demianonaindi2024.vercel.app/
+💻 ¡Visítalo aquí! https://demianonaindi2025.vercel.app/
 
 Estoy abierto a sugerencias, colaboraciones o simplemente escuchar qué te parece. ¡Déjame tu opinión en los comentarios! 👇
