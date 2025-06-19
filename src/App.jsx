@@ -5,7 +5,7 @@ import Proyects from "./sections/Proyects";
 import Footer from "./sections/Footer";
 import Experience from "./sections/Experience";
 // eslint-disable-next-line no-unused-vars
-import { Analytics } from "@vercel/analytics/next"
+import { Analytics } from "@vercel/analytics/react"
 const app = () => {
   return (
     <main className="max-w-7xl mx-auto">
