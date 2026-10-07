@@ -1,5 +1,4 @@
 import Globe from "react-globe.gl";
-import Button from "../components/Button";
 import { useState } from "react";
 const About = () => {
     const [hasCopied, setHasCopied] = useState(false);
@@ -22,7 +21,7 @@ const About = () => {
 
                         <div className="mt-10">
                             <p className="grid-headtext">Demian Onaindi</p>
-                            <p className="grid-subtext">Con más de 3 años en el campo de la programación, estudiando y trabajando en proyectos, logré obtener habilidades sólidas para desarrollar sistemas completos desde 0
+                            <p className="grid-subtext">Líder Técnico especializado en diagnóstico electrónico avanzado y gestión integral de soporte técnico para los 5 entornos operativos de TEXA (CAR, TRUCK, OHW, BIKE y MARINE). Perfil complementado con sólida formación en desarrollo de software, adquisición de datos, monitoreo en tiempo real y continuidad operativa.
                             </p>
                         </div>
                     </div>
@@ -39,14 +38,13 @@ const About = () => {
                             <img src="assets/blenderLogo.png" alt="grid-2" className="h-10 w-fit" />
                             <img src="assets/3D.png" alt="grid-2" className="h-12 w-fit" />
                             <img src="assets/Csharp.png" alt="grid-2" className="h-10 ml-4 w-fit" />
-                            <img src="assets/tailwindcss.png" alt="grid-2" className="h-10 w-fit" />
+                            <img src="assets/SQL.png" alt="grid-2" className="h-10 w-fit" />
                         </div>
 
                         <div className="mt-28">
                             <p className="grid-headtext">Habilidades</p>
                             <p className="grid-subtext">
-                                Me especializo en el desarrollo de sistemas web utilizando diversos frameworks 
-                                con un enfoque especial en automatización industrial y 3D
+                                Diagnóstico electrónico vehicular avanzado (CAN-Bus / SAE J1939, Euro 5/6), liderazgo técnico L2/L3, capacitación y masterclasses. Desarrollo de software para sistemas de escritorio, web y servicios industriales, bases de datos relacionales e integración de APIs en tiempo real.
                             </p>
                         </div>
                     </div>
@@ -67,13 +65,13 @@ const About = () => {
                                 labelsData={[{
                                     lat: -33.3335,
                                     lng: -60.2110,
-                                    text: 'Argentina, San nicolas de los arroyos',
+                                    text: 'San Nicolás de los Arroyos, Buenos Aires',
                                 }]}
                             />
                         </div>
                         <div>
-                            <p className="grid-headtext">Capacidad de trabajar en cualquier zona horaria</p>
-                            <p className="grid-subtext">Con base en argentina y opción de trabajo remoto a nivel global</p>
+                            <p className="grid-headtext">San Nicolás de los Arroyos, Argentina</p>
+                            <p className="grid-subtext">Base en Buenos Aires con capacidad de trabajo remoto y cobertura técnica regional. Idiomas: Español (nativo) e Inglés (intermedio / hábil).</p>
                         </div>
                     </div>
                 </div>
@@ -83,9 +81,9 @@ const About = () => {
                         <img src="assets/grid3.png" alt="grid-3" className="w-full sm:h-[266px] h-fit object-contain" />
 
                         <div>
-                            <p className="grid-headtext">Mi pasión por programar</p>
+                            <p className="grid-headtext">Educación y capacitaciones</p>
                             <p className="grid-subtext">
-                                Disfruto enfrentarme a desafíos que ponen a prueba mis habilidades y me impulsan a crecer. Cada proyecto es una oportunidad para superar límites, adquirir nuevos conocimientos y encontrar soluciones innovadoras que marquen la diferencia.
+                                UTN - FRSN: Técnico Universitario en Programación (en curso). Instructor TEXA / Sabecort Sport (10/2026): Masterclass Sistemas de Postratamiento EURO 5 y EURO 6. Microsoft Learn (08/2023 – 10/2023): análisis, diseño de sistemas y POO. AlgoSTEM Inc. (2023): Python Intermediate Level.
                             </p>
                         </div>
                     </div>
@@ -105,6 +103,7 @@ const About = () => {
                                 <img src={hasCopied ? 'assets/tick.svg' : 'assets/copy.svg'} alt="copy" />
                                 <p className="lg:text-1xl md:text-xl font-medium text-gray_gradient text-white">demianonaindi919@gmail.com</p>
                             </div>
+                            <p className="text-center text-white-600 text-sm">+54 9 336 434 2637</p>
                         </div>
                     </div>
                 </div>

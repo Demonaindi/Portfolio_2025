@@ -30,7 +30,7 @@ const Footer = () => {
         </div>
       </div>
 
-      <p className="text-white-500">© 2025 Demian Onaindi</p>
+      <p className="text-white-500">© 2026 Demian Onaindi</p>
     </footer>
   );
 };

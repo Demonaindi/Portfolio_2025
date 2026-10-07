@@ -40,7 +40,7 @@ const Hero = () => {
         <p className='sm:text-3xl text-xl font-medium
          text-white text-center font-generalsans'>Hola, soy <span className='text-gray_gradient'>Demian</span>
           <span className='waving-hand'>👋</span></p>
-        <p className='hero_tag text-gray_gradient'>Desarrollador Fullstack</p>
+        <p className='hero_tag text-gray_gradient'>Líder Técnico & Desarrollador de Software</p>
       </div>
 
       <div className='w-full h-full absolute inset-0'>
