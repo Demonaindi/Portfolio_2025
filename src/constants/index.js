@@ -38,7 +38,7 @@ export const navLinks = [
       duration: 'Marzo 2026 - Presente',
       company:
         'Líder mundial en diseño, industrialización y fabricación de herramientas de diagnóstico para automóviles, camiones, maquinaria agrícola, motocicletas y embarcaciones.',
-      title: "Liderazgo y gestión de soporte técnico avanzado (L2/L3) para equipos de diagnóstico multimarca y software IDC5 en los 5 entornos: Automotor, Transporte Pesado, Maquinaria Agrícola/Fuera de Carretera, Motocicletas y Náutica. Instructor técnico de la Masterclass oficial \"Sistemas de Postratamiento EURO 5 y EURO 6\" (junto a Sabecort Sport y TEXA do Brasil). Diagnóstico de arquitecturas electrónicas vehiculares (CAN-Bus, CAN-FD, SAE J1939), capacitaciones a distribuidores y enlace técnico con casa matriz para validación de software y homologación de protocolos.",
+      title: "Lidero el soporte técnico avanzado de los equipos de diagnóstico multimarca y el software IDC6 en los cinco entornos de la marca: automotor, transporte pesado, maquinaria agrícola y fuera de carretera, motocicletas y náutica. Dicto capacitaciones y masterclasses oficiales para la red de distribución y talleres de la región, y actúo como enlace técnico con casa matriz en la validación de nuevas versiones de software.",
       icon: '/assets/texa.jpg',
       logoClass: 'rounded-lg object-cover p-0 bg-transparent',
     },
@@ -47,7 +47,7 @@ export const navLinks = [
       name: 'Janus Automation',
       pos: 'Desarrollador de Software Industrial',
       duration: 'Marzo 2024 - Febrero 2026',
-      title: "Mantenimiento correctivo y evolutivo de sistemas industriales para continuidad operativa en plantas continuas. Desarrollo de aplicaciones de escritorio y servicios para monitoreo, adquisición y muestreo de variables en tiempo real. Visualizaciones interactivas en 3D para tracking de procesos, modelado de bases de datos relacionales, integración de APIs REST y soporte técnico en planta con documentación operativa.",
+      title: "Desarrollé y mantuve sistemas industriales orientados a la continuidad operativa de plantas de producción continua. Construí aplicaciones de escritorio, servicios web y visualizaciones 3D para el monitoreo de procesos en tiempo real, trabajando de cerca con los usuarios en planta para resolver incidentes y mejorar las herramientas del día a día.",
       icon: '/assets/janus.png',
     }
   ];

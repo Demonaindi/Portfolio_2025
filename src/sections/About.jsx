@@ -21,7 +21,7 @@ const About = () => {
 
                         <div className="mt-10">
                             <p className="grid-headtext">Demian Onaindi</p>
-                            <p className="grid-subtext">Líder Técnico especializado en diagnóstico electrónico avanzado y gestión integral de soporte técnico para los 5 entornos operativos de TEXA (CAR, TRUCK, OHW, BIKE y MARINE). Perfil complementado con sólida formación en desarrollo de software, adquisición de datos, monitoreo en tiempo real y continuidad operativa.
+                            <p className="grid-subtext">Líder Técnico en TEXA, a cargo del soporte avanzado y la formación técnica para la región. Combino el diagnóstico electrónico vehicular con una sólida base en desarrollo de software, lo que me permite resolver problemas complejos desde ambos frentes.
                             </p>
                         </div>
                     </div>
@@ -44,7 +44,7 @@ const About = () => {
                         <div className="mt-28">
                             <p className="grid-headtext">Habilidades</p>
                             <p className="grid-subtext">
-                                Diagnóstico electrónico vehicular avanzado (CAN-Bus / SAE J1939, Euro 5/6), liderazgo técnico L2/L3, capacitación y masterclasses. Desarrollo de software para sistemas de escritorio, web y servicios industriales, bases de datos relacionales e integración de APIs en tiempo real.
+                                Liderazgo técnico, diagnóstico electrónico vehicular y capacitación profesional. Desarrollo de software para aplicaciones de escritorio, web y servicios industriales, con experiencia en bases de datos, integración de sistemas y datos en tiempo real.
                             </p>
                         </div>
                     </div>
@@ -71,7 +71,7 @@ const About = () => {
                         </div>
                         <div>
                             <p className="grid-headtext">San Nicolás de los Arroyos, Argentina</p>
-                            <p className="grid-subtext">Base en Buenos Aires con capacidad de trabajo remoto y cobertura técnica regional. Idiomas: Español (nativo) e Inglés (intermedio / hábil).</p>
+                            <p className="grid-subtext">Con base en Buenos Aires y disponibilidad para trabajo remoto. Español nativo e inglés intermedio.</p>
                         </div>
                     </div>
                 </div>
@@ -83,7 +83,7 @@ const About = () => {
                         <div>
                             <p className="grid-headtext">Educación y capacitaciones</p>
                             <p className="grid-subtext">
-                                UTN - FRSN: Técnico Universitario en Programación (en curso). Instructor TEXA / Sabecort Sport (10/2026): Masterclass Sistemas de Postratamiento EURO 5 y EURO 6. Microsoft Learn (08/2023 – 10/2023): análisis, diseño de sistemas y POO. AlgoSTEM Inc. (2023): Python Intermediate Level.
+                                Técnico Universitario en Programación en la UTN (FRSN), en curso. Instructor de la Masterclass oficial de TEXA sobre sistemas de postratamiento Euro 5 y Euro 6. Formación complementaria en desarrollo de software con Microsoft Learn y en Python con AlgoSTEM.
                             </p>
                         </div>
                     </div>
