@@ -83,7 +83,7 @@ const About = () => {
                         <div>
                             <p className="grid-headtext">Educación y capacitaciones</p>
                             <p className="grid-subtext">
-                                Técnico Universitario en Programación en la UTN (FRSN), en curso. Instructor de la Masterclass oficial de TEXA sobre sistemas de postratamiento Euro 5 y Euro 6. Formación complementaria en desarrollo de software con Microsoft Learn y en Python con AlgoSTEM.
+                                Técnico Universitario en Programación egresado de la UTN (FRSN). Instructor de la Masterclass oficial de TEXA sobre sistemas de postratamiento Euro 5 y Euro 6. Formación complementaria en desarrollo de software con Microsoft Learn y en Python con AlgoSTEM.
                             </p>
                         </div>
                     </div>
